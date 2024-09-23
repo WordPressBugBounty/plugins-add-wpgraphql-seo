@@ -1,0 +1,1 @@
+# plugins-add-wpgraphql-seo
